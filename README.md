@@ -28,6 +28,8 @@ Dataset includes 435 training images, 18 test images.
 |![holdnothing_70](https://github.com/SuperAI520/HandHoldingObjectClassification/assets/160987762/d5a31691-c6d1-4e58-8c32-32a5404f1e80)|![holdobject_201](https://github.com/SuperAI520/HandHoldingObjectClassification/assets/160987762/2be464e5-8e96-4a30-98fa-9883f0bd899a)|
 |![holdnothing_69](https://github.com/SuperAI520/HandHoldingObjectClassification/assets/160987762/72c2695c-0abf-4038-b661-301e490d5b17)|![holdobject_186](https://github.com/SuperAI520/HandHoldingObjectClassification/assets/160987762/522e55ef-6e52-41bb-951b-e14070ac3e3b)|
 
+You can download the dataset from [here](https://drive.google.com/file/d/1VpEj305MWNmtIac9qKt-PBRU03XLBqzm/view?usp=drive_link).
+
 ## How to Use
 In order to train your own custom dataset with this implementation, place your dataset folder at the root directory. Make sure that your dataset is split into two subfolder. train and test where the former contains your training dataset and the latter contains your validation set. Refer to the folder named **datasets** in the repo as an example.
 
