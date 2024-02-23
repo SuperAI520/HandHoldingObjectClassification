@@ -75,9 +75,13 @@ To test the repository, download pretrained weights from [here](https://drive.go
 Here are the classification results for MobileFace net.
 
 ### Holding Object
+|  |  |
+|--|--|
 |![holdobject_6](https://github.com/SuperAI520/HandHoldingObjectClassification/assets/160987762/51865494-6c90-4f48-b8ef-9526f7db1ad9)|![holdobject_5](https://github.com/SuperAI520/HandHoldingObjectClassification/assets/160987762/8a362577-3ae1-40b8-808b-05e2c1f5bd60)|
 |![holdobject_4](https://github.com/SuperAI520/HandHoldingObjectClassification/assets/160987762/4c89be97-8fa6-4526-8207-3f5b872bd674)|![holdobject_3](https://github.com/SuperAI520/HandHoldingObjectClassification/assets/160987762/274b2fb5-2c31-45bd-945b-6fd4c7c6253e)|
 
 ### Holding Nothing
+|  |  |
+|--|--|
 |![holdnothing_5](https://github.com/SuperAI520/HandHoldingObjectClassification/assets/160987762/77a0102f-19b5-471c-8443-2dcfd40ef925)|![holdnothing_4](https://github.com/SuperAI520/HandHoldingObjectClassification/assets/160987762/d66bc05a-290f-4641-8690-2f960ced767b)|
 |![holdnothing_3](https://github.com/SuperAI520/HandHoldingObjectClassification/assets/160987762/3f4ff592-c591-4e53-90de-2670dc5a4644)|![holdnothing_2](https://github.com/SuperAI520/HandHoldingObjectClassification/assets/160987762/bc386ec4-a619-470e-bb34-41261030b8aa)|
